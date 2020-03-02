@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"#if ( $locale ) lang="$locale.language"#end>
+<head>
+    <meta charset="${outputEncoding}" />
+    <title>$title</title>
+    <link rel="stylesheet" href="$relativePath/css/site.css" />
+</head>
+<body>
+
+</body>
+</html>
